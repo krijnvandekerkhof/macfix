@@ -1,4 +1,4 @@
 <?php
 include('../core/init.php');
-login();
+login($_POST['username'], $_POST['password']);
 ?>
