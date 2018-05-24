@@ -19,4 +19,13 @@ function login($username, $password){
 		echo 'Vul een gebruikersnaam en wachtwoord in!';
 	}
 }
+
+function loggedIn($adminSession){
+	if (isset($adminSession) && !empty($adminSession)) {
+		echo 'Je bent ingelogd.';
+	}
+	else{
+		echo 'Je bent niet ingelogd.';
+	}
+}
 ?>
