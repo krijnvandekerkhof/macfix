@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"content",
+				"content_custom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"menuut",
+				"menuutje_bruh"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"lign",
+				"line-height"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"marin",
+				"margin-left"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"marign",
+				"margin-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgorund",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"lees",
+				"lees-meer"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"co",
+				"contactformonline"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"string",
+				"string2"
+			],
+			[
+				"stin",
+				"string"
+			],
+			[
+				"stri",
+				"string2"
+			],
+			[
+				"strin",
+				"string"
+			],
+			[
+				"iphone",
+				"iphone6"
+			],
+			[
+				"naam",
+				"naamDevice"
+			],
+			[
+				"contn",
+				"contentb"
+			],
+			[
+				"meta",
+				"metaDescription"
+			],
+			[
+				"proje",
+				"projecten"
+			],
+			[
+				"projecten",
+				"projecten-projecten"
+			],
+			[
+				"alle",
+				"alle-projecten"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"margni",
+				"margin-top"
+			],
+			[
+				"backgorun",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"ligh",
+				"lightgrey"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"hover",
+				"hover-vlak-portfolio"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"backgroud",
+				"background-position"
+			],
+			[
+				"res",
+				"responsive-menu-item"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text-de",
+				"text-decoration"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"sho",
+				"show"
+			],
+			[
+				"hi",
+				"hide"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"par",
+				"parentDiv"
+			],
+			[
+				"paren",
+				"parentDiv"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"progressbar"
+			],
+			[
+				"web",
+				"webkit-progress-bar"
+			],
+			[
+				"progre",
+				"progress"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"i30",
+				"i300370_studie"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"s",
+				"selectFromDb"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"repa",
+				"reparatie-input"
+			],
+			[
+				"rep",
+				"reparatie-input"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"uplo",
+				"upload_image"
+			],
+			[
+				"ima",
+				"imagename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 344.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/krijnvandekerkhof/Documents/Werk/i-repairs3/over-ons.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/i-repairs3/sftp-config.json",
+		"/Users/krijnvandekerkhof/Documents/Werk/i-repairs3/index.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/i-repairs3/core/connection.php",
+		"/private/var/folders/y4/vpjtg1pd26l2lg0bg57k1x5h0000gn/T/fz3temp-1/functions.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/normalize.min.css",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/normalize.css",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/page.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/searchform.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/sidebar.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/template-demo.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/tag.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/header.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/footer.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable-child/style.css",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable-child/functions.php",
+		"/Users/krijnvandekerkhof/Documents/Werk/wordpress 2/wp-content/themes/html5blank-stable/style.css",
+		"/private/var/folders/y4/vpjtg1pd26l2lg0bg57k1x5h0000gn/T/fz3temp-1/macbook.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP32/php32/eindopdracht 2/core/db/connect.php",
+		"/Users/krijnvandekerkhof/Desktop/index.html",
+		"/Users/krijnvandekerkhof/Desktop/een.php",
+		"/Users/krijnvandekerkhof/Desktop/php.ini",
+		"/private/var/folders/y4/vpjtg1pd26l2lg0bg57k1x5h0000gn/T/fz3temp-1/connection.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/web/css/custom.css",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/layout/default.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/content.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/top-products.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/etc/env.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/.htaccess",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/.htaccess",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/sftp-config.json",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/kpis.phtml",
+		"/Users/krijnvandekerkhof/Desktop/twitter-sprite.png",
+		"/private/var/folders/y4/vpjtg1pd26l2lg0bg57k1x5h0000gn/T/fz3temp-1/env.php",
+		"/Users/krijnvandekerkhof/Desktop/clear_cache.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/custom.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/slider.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/layout/default-head-blocks.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/menuutje.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/web/js/custom.js",
+		"/Users/krijnvandekerkhof/Desktop/16gods-logo.png",
+		"/Users/krijnvandekerkhof/Desktop/facebook-sprite.png",
+		"/Users/krijnvandekerkhof/Desktop/google-plus-sprite.png",
+		"/Users/krijnvandekerkhof/Desktop/linkedin-sprite.png",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/web/css/custom.css",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/web/css/local-l.css",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/web/css/local-m.css",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/onze-waardes.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/onze-growers.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/braam.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/over-ons.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/contact.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/onze-waarden.html",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 4/Assesment/javascript/javascript.js",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/templates/custom-menu.phtml",
+		"/Users/krijnvandekerkhof/Documents/Werk/16gods/wp-content/themes/dt-the7-child/style.css",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/index.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/vdkonlinemedia2/.idea/workspace.xml",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/javascript/javascript.js",
+		"/Users/krijnvandekerkhof/Documents/Werk/vdkonlinemedia2/index.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/index.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/framboos.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/rode-bes.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/aardbei.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/blauwe-bes.html",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/style/style.css",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/images/dutch-flag.png",
+		"/Users/krijnvandekerkhof/Documents/Werk/Bio-Berry/images/english-flag.png",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/contact.php",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/cv.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/16gods.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/jquery-plugin.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/mac-fix.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/php31.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/php32.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/portfolio.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/sky-defender.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/tsgrashoek.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/webshop.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/contact.html",
+		"/Users/krijnvandekerkhof/Documents/Persoonlijk/Portfolio 6/style/style.css",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/img.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/architectuur.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/login.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/loginForm.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/loggedIn.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/overall/overallHeader.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/overall/overallFooter.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/header.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/head.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/includes/footer.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/index.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/upload.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/thumbnail.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/register.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/portretten.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP31/php31/eindopdracht/core/functions/users.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 2/Semester 3/PHP32/php32/eindopdracht 2/doelpunt_uploaden.php",
+		"/private/var/folders/y4/vpjtg1pd26l2lg0bg57k1x5h0000gn/T/fz3temp-1/users.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/theme-frontend-blank/Magento_Theme/layout/default_head_blocks.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/default.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/frontend/templates/html/topmenu.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/absolute_footer.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/footer.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/callouts/left_col.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/page/js/require_js.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Theme/frontend/templates/html/header.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/pager.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/collapsible.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/topmenu.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/templates/html/bugreport.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Review/templates/form.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/module-theme/view/frontend/layout/default.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/theme.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/theme-frontend-blank/etc/view.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/vendor/magento/theme-frontend-blank/Magento_Review/web/css/source/_module.less",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/module-review/view/frontend/templates/form.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/Magento_Review/view/frontend/templates/form.phtml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/etc/view.xml",
+		"/Users/krijnvandekerkhof/Documents/Afbeelding backup/01-11-2017/IMG_2742.JPG",
+		"/Users/krijnvandekerkhof/Documents/Werk/16gods/sftp-config.json",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/adminhtml/TestAdmin/TestAdminTheme/theme.xml",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/adminhtml/TestAdmin/TestAdminTheme/registration.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/registration.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/etc/NonComposerComponentRegistration.php",
+		"/Users/krijnvandekerkhof/Documents/Fontys HBO ICT/Jaar 5/Open Innovation/Webshop/Development/app/design/frontend/ownThemeVendor/ownTheme/view.xml",
+		"/Users/krijnvandekerkhof/Desktop/shop/Magento-CE-2.2.0-2017-09-25-08-19-44/sftp-config.json",
+		"/Users/krijnvandekerkhof/Desktop/magento.sql"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 201.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blankview.xml",
+				"vendor/magento/theme-frontend-blank/etc/view.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
