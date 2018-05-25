@@ -4,7 +4,7 @@ function login($username, $password){
 		if ($username === 'macfix' && md5($password) === '76c532544c71c83cbcc92583bfdd17a3'){
 			echo "login gelukt";
 			$_SESSION['admin'] = $username;
-			var_dump($_SESSION['admin']);
+			header('Location: index.php');
 		}
 		else{
 			if ($username != 'macfix') {
@@ -20,12 +20,8 @@ function login($username, $password){
 	}
 }
 
-function loggedIn($adminSession){
-	if (isset($adminSession) && !empty($adminSession)) {
-		echo 'Je bent ingelogd.';
-	}
-	else{
-		echo 'Je bent niet ingelogd.';
-	}
+function logout(){
+	session_destroy();
+	header("Location: index.php");
 }
 ?>
